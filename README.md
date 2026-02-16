@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SWARAJ%20SHINDE&fontSize=50&fontAlignY=30&desc=🚀%20DATA%20SCIENCE%20ENGINEER%20|%20ML%20SPECIALIST%20|%20AI%20INNOVATOR%20🚀&descAlignY=52&descAlign=50&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SWARAJ%20SHINDE&fontSize=50&fontAlignY=30&desc=📊%20DATA%20SCIENTIST%20|%20DATA%20ANALYST%20|%20FULL%20STACK%20DEVELOPER%20💻&descAlignY=52&descAlign=50&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&height=100&lines=🌟+Welcome+to+My+Digital+Universe+🌟;💎+Turning+Data+into+Gold+💎;🧠+AI+%26+Machine+Learning+Wizard+🧠;🚀+Building+Tomorrow's+Tech+Today+🚀;⚡+10x+Engineer+%7C+1%25+Results+⚡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&height=100&lines=🌟+Welcome+to+My+Digital+Universe+🌟;💎+Turning+Data+into+Gold+💎;🧠+Data+Science+%26+Analytics+Expert+🧠;💻+Full+Stack+Developer+💻;⚡+Building+Data-Driven+Solutions+⚡" alt="Typing SVG" />
 
 <br/>
 
@@ -33,20 +33,20 @@
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="wave" width="30"/> **Data Alchemist Turning Bytes into Brilliance**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="wave" width="30"/> **Triple Threat: Data Scientist | Data Analyst | Full Stack Developer**
 
 <br/>
 
 ```diff
 @@                 🎯 WHAT I DO                    @@
 
-+ 🤖 Architecting AI Systems that Scale to Millions
-+ 📊 Transforming Raw Data into Business Gold  
-+ 🧬 Engineering ML Models with 95%+ Accuracy
-+ 🚀 Deploying Production-Grade Deep Learning Pipelines
-+ ⚡ Building Real-Time Predictive Analytics Platforms
-+ 💎 Creating Computer Vision & NLP Solutions
-+ 🎯 Optimizing Algorithms for 10x Performance Gains
++ 📊 Build & Deploy Machine Learning Models
++ 📈 Transform Raw Data into Business Insights  
++ 💻 Develop Full Stack Web Applications
++ 🤖 Create Predictive Analytics Solutions
++ 🚀 Design Interactive Dashboards & Visualizations
++ 💎 Engineer End-to-End Data Pipelines
++ 🎯 Architect Scalable Data-Driven Systems
 ```
 
 <br/>
@@ -56,13 +56,13 @@
 ### 🌟 **EXPERTISE MATRIX**
 
 ```
-🎯 Specialization:    Machine Learning  |  Deep Learning  |  AI Engineering
+🎯 Roles:             Data Scientist  |  Data Analyst  |  Full Stack Developer
 📍 Location:          Mumbai, Maharashtra, India 🇮🇳
-💼 Current Role:      Data Science Engineer
-🧠 Passion:           Building AI that Changes Lives
-🎓 Always Learning:   LLMs | Transformers | MLOps | Advanced NNs  
-💡 Mission:           Making AI Accessible to Everyone
-🏆 Achievement:       99th Percentile Problem Solver
+💼 Focus:             Building Data-Driven Products & Applications
+🧠 Passion:           Making Data Accessible Through Beautiful Interfaces
+🎓 Always Learning:   ML/AI | Analytics | Modern Web Technologies  
+💡 Mission:           Creating Impact Through Data & Code
+🏆 Strength:          End-to-End Solution Development
 ```
 
 <br/>
@@ -73,22 +73,31 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-#### 🔬 **Research & Development**
-- 🧠 Advanced Neural Architecture Search
-- 🤖 Large Language Model Fine-Tuning
-- 👁️ State-of-the-Art Computer Vision Models
-- 🗣️ NLP & Sentiment Analysis Systems
+#### 📊 **Data Science**
+- 🤖 ML Model Development
+- 🧠 Deep Learning Projects
+- 👁️ Computer Vision Solutions
+- 🗣️ NLP Applications
 
 </td>
-<td width="50%">
+<td width="33%">
 
-#### ⚡ **Innovation Lab**
-- 🚀 Real-Time ML Model Deployment
-- 📊 Big Data Analytics at Scale
-- 🔮 Predictive Modeling & Forecasting
-- 🎯 MLOps & Model Monitoring Systems
+#### 📈 **Data Analytics**
+- 📊 Business Intelligence
+- 📉 Data Visualization
+- 🔍 Statistical Analysis
+- 📋 Dashboard Creation
+
+</td>
+<td width="33%">
+
+#### 💻 **Full Stack Dev**
+- 🎨 Frontend Development
+- ⚙️ Backend APIs
+- 🗄️ Database Design
+- ☁️ Cloud Deployment
 
 </td>
 </tr>
@@ -106,52 +115,94 @@
 
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="80" height="80" />
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="80" height="80" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
 
 </div>
 
 <br/>
 
 <details open>
-<summary><b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> AI & MACHINE LEARNING</b></summary>
+<summary><b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> DATA SCIENCE & MACHINE LEARNING</b></summary>
 
 <div align="center">
 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge)
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189600?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
 
 </div>
 
 </details>
 
 <details>
-<summary><b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> DATA SCIENCE & ANALYTICS</b></summary>
+<summary><b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> DATA ANALYTICS & VISUALIZATION</b></summary>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+</details>
+
+<details>
+<summary><b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> FULL STACK DEVELOPMENT</b></summary>
+
+<div align="center">
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+
+</details>
+
+<details>
+<summary><b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> DATABASES & BIG DATA</b></summary>
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 
 </div>
 
@@ -167,47 +218,9 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-
-</div>
-
-</details>
-
-<details>
-<summary><b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> DATABASES & BIG DATA</b></summary>
-
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-
-</div>
-
-</details>
-
-<details>
-<summary><b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> WEB FRAMEWORKS & APIs</b></summary>
-
-<div align="center">
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </div>
 
@@ -225,7 +238,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
@@ -345,30 +358,11 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="chart" width="35" /> **CODING JOURNEY**
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=swarajshinde12&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" />
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br/>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="bulb" width="35" /> **SKILLS SHOWCASE**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,r,javascript,typescript,react,nodejs,docker,kubernetes,aws,gcp,azure,git,github,gitlab,vscode,pycharm,jupyter,anaconda,linux,bash,mysql,postgres,mongodb,redis,elasticsearch,jenkins,grafana,prometheus&perline=16" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,r,javascript,typescript,react,nextjs,vue,nodejs,express,django,flask,fastapi,html,css,tailwind,docker,kubernetes,aws,gcp,azure,git,github,vscode,pycharm,jupyter,anaconda,mysql,postgres,mongodb,redis&perline=17" />
 
 </div>
 
@@ -382,7 +376,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20science%20of%20today%20is%20the%20technology%20of%20tomorrow&author=Edward%20Teller&border=true&borderColor=00D9FF" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Data%20tells%20stories%2C%20code%20brings%20them%20to%20life%2C%20and%20design%20makes%20them%20unforgettable&author=Swaraj%20Shinde&border=true&borderColor=00D9FF" />
 
 </div>
 
@@ -407,15 +401,6 @@
 </a>
 <a href="https://twitter.com/swarajshinde12">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://swarajshinde.dev">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://medium.com/@swarajshinde">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="https://dev.to/swarajshinde">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
 <a href="https://kaggle.com/swarajshinde">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
