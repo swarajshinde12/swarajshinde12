@@ -3,41 +3,35 @@
 <!-- Anime-Style Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,3,5,6&text=✨%20SWARAJ%20SHINDE%20✨&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=🌸%20Data%20Scientist%20•%20Data%20Analyst%20•%20Full%20Stack%20Developer%20🌸&descSize=20&descAlignY=58&descAlign=50"/>
 
-<!-- Decorative Anime Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
 </div>
 
 <br/>
 
-<!-- Multi-Line Animated Typing with Anime Vibes -->
+<!-- Multi-Line Animated Typing -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=100&lines=✨+Data+Scientist+%7C+Discovering+Hidden+Magic+in+Data;🌸+Data+Analyst+%7C+Painting+Stories+with+Numbers;💫+Full+Stack+Developer+%7C+Crafting+Digital+Worlds;🎨+ML+Engineer+%7C+Teaching+Machines+to+Dream;🚀+Creating+Beautiful+Data-Driven+Experiences;⭐+Where+Analytics+Meets+Artistry" alt="Typing Animation"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=100&lines=✨+Data+Scientist+%7C+Discovering+Hidden+Magic+in+Data;🌸+Data+Analyst+%7C+Painting+Stories+with+Numbers;💫+Full+Stack+Developer+%7C+Crafting+Digital+Worlds;🎨+ML+Engineer+%7C+Teaching+Machines+to+Dream;🚀+Creating+Beautiful+Data-Driven+Experiences;⭐+Where+Analytics+Meets+Artistry" alt="Typing Animation"/>
 </p>
 
 <br/>
 
-<!-- Anime-Style Profile Stats -->
+<!-- Social Badges with Profile Views -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=swarajshinde12&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge&labelColor=FFE5F1" alt="Profile Views" height="35"/>
+<img src="https://komarev.com/ghpvc/?username=swarajshinde12&label=Profile%20Views&color=blueviolet&style=for-the-badge&labelColor=FFE5F1" alt="Profile Views" height="35"/>
 
 <br/><br/>
 
-<!-- Social Badges with Pastel Anime Colors -->
 <a href="https://linkedin.com/in/swaraj-shinde-3b8631223">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white&labelColor=E0BBE4" height="35"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=E0BBE4" height="35"/>
 </a>
 <a href="https://github.com/swarajshinde12">
-  <img src="https://custom-icon-badges.demolab.com/github/followers/swarajshinde12?logo=person-add&style=for-the-badge&color=A78BFA&labelColor=FFE5F1&label=Follow" height="35"/>
+  <img src="https://img.shields.io/github/followers/swarajshinde12?label=Follow&style=for-the-badge&logo=github&color=A78BFA&labelColor=FFE5F1" height="35"/>
 </a>
 <a href="https://github.com/swarajshinde12?tab=repositories">
-  <img src="https://custom-icon-badges.demolab.com/badge/Repositories-30+-ff69b4?style=for-the-badge&logo=repo&logoColor=white&labelColor=D4A5D7" height="35"/>
+  <img src="https://img.shields.io/badge/Repositories-30+-ff69b4?style=for-the-badge&logo=github&logoColor=white&labelColor=D4A5D7" height="35"/>
 </a>
 <a href="mailto:swarajshinde@example.com">
-  <img src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=E0BBE4" height="35"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E0BBE4" height="35"/>
 </a>
 <a href="https://twitter.com/swarajshinde12">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=FFE5F1" height="35"/>
@@ -47,23 +41,17 @@
 
 <br/>
 
-<!-- Animated Pastel Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="wave" width="40"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=300&height=50&lines=About+Me+🌸;Profile+✨;私について+💫" alt="About Me"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="wave" width="40"/>
+</p>
 
 <br/>
-
-<!-- Anime-Style About Me Section -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=300&height=50&lines=About+Me+🌸;私について+✨;Profile+💫" alt="About Me"/>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"/>
-</h2>
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
-
-<br/>
+<td width="55%" valign="top">
 
 ```yaml
 ✨ Profile
@@ -106,13 +94,12 @@ full_stack:
   devops:
     containers: [Docker, Kubernetes]
     cloud: [AWS, GCP, Azure]
-    cicd: [GitHub Actions, Jenkins]
 
 ✨ Current Quest
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   🤖 Building Production ML Systems
   📊 Creating Interactive Dashboards
-  🌐 Developing Full Stack Magic
+  🌐 Developing Full Stack Applications
   ☁️ Mastering Cloud Architecture
   🚀 Implementing MLOps Excellence
 
@@ -125,13 +112,13 @@ full_stack:
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 <br/>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380"/>
 
 <br/><br/>
 
@@ -139,7 +126,7 @@ full_stack:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="150">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" alt="sparkles" width="100"/>
 
 <br/><br/>
 
@@ -153,10 +140,10 @@ full_stack:
 
 <br/>
 
-<!-- Animated What I Do Section -->
-<h3 align="center">
+<!-- What I Do Section -->
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=350&height=60&lines=🛠️+What+I+Do;✨+My+Superpowers;💫+Skills+Showcase" alt="What I Do"/>
-</h3>
+</p>
 
 <table align="center">
 <tr>
@@ -164,7 +151,11 @@ full_stack:
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=FF69B4&center=true&vCenter=true&repeat=true&width=250&height=40&lines=📊+Data+Science;✨+ML+Magic" alt="Data Science"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="brain" width="80"/>
+
+<br/><br/>
 
 ```diff
 + 🤖 Build ML Models
@@ -181,7 +172,11 @@ full_stack:
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&repeat=true&width=280&height=40&lines=📈+Data+Analytics;🎨+Visual+Stories" alt="Data Analytics"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="chart" width="80"/>
+
+<br/><br/>
 
 ```diff
 + 📊 Business Intelligence
@@ -198,7 +193,11 @@ full_stack:
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=DDA0DD&center=true&vCenter=true&repeat=true&width=300&height=40&lines=💻+Full+Stack+Dev;🌐+Web+Artistry" alt="Full Stack"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="computer" width="80"/>
+
+<br/><br/>
 
 ```diff
 + 🎨 Frontend Development
@@ -215,17 +214,12 @@ full_stack:
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- Anime-Style Tech Stack -->
-<h2 align="center">
+<!-- Tech Stack Section -->
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=450&height=60&lines=💫+Tech+Universe;🌸+My+Arsenal;✨+Tools+%26+Magic" alt="Tech Stack"/>
-</h2>
+</p>
 
-<!-- Large Animated Tech Icons -->
+<!-- Large Tech Icons -->
 <p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="90" height="90" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="90" height="90" />
@@ -239,14 +233,14 @@ full_stack:
 
 <br/>
 
-<!-- Skill Icons with Anime Aesthetic -->
+<!-- Skill Icons Grid -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,r,js,ts,react,nextjs,vue,nodejs,express,django,flask,fastapi,html,css,tailwind,bootstrap,mongodb,postgres,mysql,redis,docker,kubernetes,aws,gcp,azure,git,github,vscode&perline=11&theme=light" />
 </p>
 
 <br/>
 
-<!-- Collapsible Tech Sections with Pastel Badges -->
+<!-- Collapsible Tech Sections -->
 <details open>
 <summary>
   <b>
@@ -347,15 +341,10 @@ full_stack:
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- Anime-Style GitHub Stats -->
-<h2 align="center">
+<!-- GitHub Stats -->
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=400&height=60&lines=📊+GitHub+Stats;✨+My+Journey;💫+Coding+Story" alt="GitHub Stats"/>
-</h2>
+</p>
 
 <div align="center">
 
@@ -379,15 +368,10 @@ full_stack:
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- Anime-Style Featured Projects -->
-<h2 align="center">
+<!-- Featured Projects -->
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=500&height=60&lines=🌟+Featured+Projects;✨+My+Creations;💫+Portfolio" alt="Projects"/>
-</h2>
+</p>
 
 <table align="center">
 <tr>
@@ -395,7 +379,9 @@ full_stack:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=FF69B4&center=true&vCenter=true&repeat=true&width=350&height=40&lines=🤖+Text+Classification+Engine;✨+NLP+Magic" alt="Project 1"/>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=FF69B4&center=true&vCenter=true&repeat=true&width=350&height=40&lines=🤖+Text+Classification+Engine;✨+NLP+Magic" alt="Project 1"/>
+</p>
 
 <a href="https://github.com/swarajshinde12/Text-Classification-from-Scratch">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=swarajshinde12&repo=Text-Classification-from-Scratch&theme=material-palenight&hide_border=true&bg_color=1F1B24&title_color=A78BFA&icon_color=FFB6C1&text_color=E5E7EB" width="100%" />
@@ -411,7 +397,7 @@ full_stack:
 
 <br/><br/>
 
-<p align="left">✨ Advanced NLP classification system using state-of-the-art transformer models and BERT for high-accuracy text analysis.</p>
+<p align="left">✨ Advanced NLP classification using state-of-the-art transformer models and BERT.</p>
 
 <br/>
 
@@ -427,7 +413,9 @@ full_stack:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&repeat=true&width=350&height=40&lines=👁️+AI+Image+Captioning;🎨+Vision+AI" alt="Project 2"/>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&repeat=true&width=350&height=40&lines=👁️+AI+Image+Captioning;🎨+Vision+AI" alt="Project 2"/>
+</p>
 
 <a href="https://github.com/swarajshinde12/image-captioning-and-similarity-generator">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=swarajshinde12&repo=image-captioning-and-similarity-generator&theme=material-palenight&hide_border=true&bg_color=1F1B24&title_color=A78BFA&icon_color=FFB6C1&text_color=E5E7EB" width="100%" />
@@ -443,7 +431,7 @@ full_stack:
 
 <br/><br/>
 
-<p align="left">💫 Generate intelligent captions and find similar images using advanced computer vision and deep learning models.</p>
+<p align="left">💫 Generate captions and find similar images using advanced CV models.</p>
 
 <br/>
 
@@ -461,21 +449,16 @@ full_stack:
 
 <p align="center">
   <a href="https://github.com/swarajshinde12?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/View_All_Projects-FF69B4?style=for-the-badge&logo=repo&logoColor=white&labelColor=FFE5F1" height="45"/>
+    <img src="https://img.shields.io/badge/View_All_Projects-FF69B4?style=for-the-badge&logo=github&logoColor=white&labelColor=FFE5F1" height="45"/>
   </a>
 </p>
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- Anime-Style Contribution Activity -->
-<h2 align="center">
+<!-- Contribution Activity -->
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=550&height=60&lines=🎨+Contribution+Activity;✨+My+Coding+Journey;💫+Activity+Timeline" alt="Contribution"/>
-</h2>
+</p>
 
 <div align="center">
 
@@ -510,15 +493,10 @@ full_stack:
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- Anime-Style Connect Section -->
-<h2 align="center">
+<!-- Connect Section -->
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=550&height=60&lines=💌+Let's+Connect!;✨+Reach+Out;🌸+Say+Hello!" alt="Connect"/>
-</h2>
+</p>
 
 <div align="center">
 
@@ -540,10 +518,9 @@ full_stack:
 
 <br/><br/>
 
-<!-- Anime Decorative GIFs -->
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="wave" width="80"/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="wave" width="80"/>
 
 <br/><br/>
 
@@ -553,23 +530,19 @@ full_stack:
 
 <br/>
 
-<!-- Sparkle Effects -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
-</p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" alt="sparkles" width="40"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" alt="sparkles" width="40"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" alt="sparkles" width="40"/>
 
 </div>
 
 <br/>
 
-<!-- Anime-Style Wave Footer -->
+<!-- Anime Wave Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,3,5,6&section=footer&animation=fadeIn"/>
 
-<!-- Cute Footer Badge -->
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Made_with_💜_by-Swaraj_Shinde-A78BFA?style=for-the-badge&logoColor=white&labelColor=FFE5F1" height="35"/>
+  <img src="https://img.shields.io/badge/Made_with_💜_by-Swaraj_Shinde-A78BFA?style=for-the-badge&logoColor=white&labelColor=FFE5F1" height="35"/>
 </p>
 
 </div>
